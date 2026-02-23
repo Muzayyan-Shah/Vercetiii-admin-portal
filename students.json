@@ -1,0 +1,14 @@
+{
+    "Muzayyan Shah": {
+        "tutor": "Hassan",
+        "subject": "Machine Learning"
+    },
+    "Hassan riaz": {
+        "tutor": "Muzayyan Shah",
+        "subject": "Machine learning"
+    },
+    "Ali": {
+        "tutor": "Hassan",
+        "subject": "Machine learning"
+    }
+}
